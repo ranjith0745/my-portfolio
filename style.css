@@ -1,9 +1,50 @@
-body{
-    background-color:lightblue;
-    text-align: center;
-    font-family: Arial;
-}
+  body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 40px;
+    background-color: #f4f7fb;
+    color: #222;
+    line-height: 1.7;
+ }
 
-h1{
-    color:darkblue;
-}
+ h1{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 10px;
+ }
+
+ h2{
+    text-align: center;
+    color: #2563eb;
+    margin-top: 35px;
+    text-transform: capitalize;
+ }
+
+ p{
+    max-width: 800px;
+    margin: 10px auto;
+    text-align: center;
+ }
+
+ section{
+    background: white;
+    max-width: 850px;
+    margin: 25px auto;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px;
+rgba(0,0,0,0.08);   
+ }
+ u1{
+    max-width: 600px;
+    margin: auto;
+ }
+
+ li{
+    margin: 8px 0;
+ }
+
+ a{
+    color: #25633eb;
+    text-decoration: underline;
+ }
